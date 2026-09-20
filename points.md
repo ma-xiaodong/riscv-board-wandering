@@ -195,3 +195,4 @@ Tranlated in Chinese:
 | wd  | WangDong0 | -1250 | student |
 | 甜甜 | hthsp | -1250 | RISC-V enthusiast |
 | roolrz | roolrz | 0 | System Software Developer in IC/Automative |
+| Xiaodong Ma | ma-xiaodong | 0 | Teacher of Compiler Principles
